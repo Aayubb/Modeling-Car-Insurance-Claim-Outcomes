@@ -75,6 +75,3 @@ Accuracy alone can be misleading on imbalanced targets. Roughly 69% of customers
 - Add precision, recall, and ROC-AUC given the class imbalance
 - Test interaction effects (e.g. driving experience × age)
 
-## Author
-
-Aayubb — Data Science Intern, BIT student
